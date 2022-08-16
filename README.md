@@ -32,5 +32,5 @@ The application architecture is based on the MVC pattern. Frontend: bootstrap + 
 ![Admin login page interface](github/adminLogin.png)
 ![Admin panel page interface](github/adminPanel.png)
 
-## How to use:
+## How to use
 Copy project files to web server with PHP 7+, PDO and CURL extensions.
