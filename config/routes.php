@@ -1,0 +1,33 @@
+<?php
+
+return array(
+    'blog' => 'blog/actionIndex',
+    'analytics' => 'analytics/actionIndex',
+    'tools' => 'tools/actionIndex',
+    'admin' => 'admin/actionIndex',
+    'login' => 'login/actionIndex',
+    'admin' => 'admin/actionIndex',
+    'admin/stat' => 'admin/actionStat',
+    'login/input' => 'login/actionLogin',
+    'login/output' => 'login/actionLogout',
+    'tools/age-domain' => 'ageDomain/actionIndex',
+    'tools/yandexx' => 'yandexX/actionIndex',
+    'tools/sitemap' => 'sitemap/actionIndex',
+    'tools/response' => 'responseServer/actionIndex',
+    'tools/counter' => 'counter/actionIndex',
+    'tools/speed' => 'pageSpeed/actionIndex',
+    'tools/robots' => 'robots/actionIndex',
+    'tools/indexation' => 'indexation/actionIndex',
+    'tools/top-search-result' => 'topSearchRes/actionIndex',
+    'tools/top-search-result/action' => 'topSearchRes/actionResult',
+    'tools/top-search-result/captcha' => 'topSearchRes/actionCaptcha',
+    'tools/indexation/action' => 'indexation/actionResult',
+    'tools/indexation/captcha' => 'indexation/actionCaptcha',
+    'tools/robots/action' => 'robots/actionResult',
+    'tools/sitemap/action' => 'sitemap/actionResult',
+    'tools/speed/action' => 'pageSpeed/actionResult',    
+    'tools/counter/action' => 'counter/actionResult',
+    'tools/age-domain/action' => 'ageDomain/actionResult',
+    'tools/response/action' => 'responseServer/actionResult',
+    'tools/yandexx/action' => 'yandexX/actionResult'
+);
