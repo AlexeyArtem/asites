@@ -3,7 +3,9 @@
 
 Asites - web-service for site analysis. The application implements 2 types of analysis: general site analysis and analysis of individual indicators. The application has an admin panel that displays analysis statistics.
 
-The application architecture is based on the MVC pattern. Frontend: bootstrap + JS. Backend: php.
+The application architecture is based on the MVC pattern.
+- Frontend: bootstrap + JS.
+- Backend: php.
 
 ### The general analysis:
 1. Checking the site quality index according to Yandex services.
